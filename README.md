@@ -9,15 +9,49 @@
 <a href="https://stackoverflow.com/users/11469848/leinah" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="leinah" height="30" width="40" /></a>
 <a href="https://www.behance.net/leinaharts" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="leinaharts" height="30" width="40" /></a>
 </p>
+<h3 align="left">Programming Languages & Markup: </h3>
+     <a href="#"> <img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"> </a>
+     <a href="#"> <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"> </a>
+     <a href="#"> <img alt="Dart" src="https://custom-icon-badges.demolab.com/badge/-Dart-025493?logo=dart&logoColor=white"> </a>
+     <a href="#"> <img alt="HTML5" src="https://img.shields.io/badge/HTML-E34F26.svg?logo=html5&logoColor=white"> </a>
+     <a href="#"> <img alt="Java" src="https://custom-icon-badges.demolab.com/badge/Java-007396.svg?logo=java&logoColor=white"> </a>
+     <a href="#"> <img alt="Javascript" src="https://img.shields.io/badge/JavaScript-yellow.svg?logo=javascript&logoColor=white"> </a>
+     <a href="#"> <img alt="PHP" src="https://img.shields.io/badge/PHP-777BB4.svg?logo=php&logoColor=white"> </a>
+     <a href="#"> <img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"> </a>
 
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> 
-<a href="https://www.adobe.com/ph_en/products/aftereffects.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cb/Adobe_After_Effects_CC_icon.svg/2101px-Adobe_After_Effects_CC_icon.svg.png" alt="aftereffects" width="40" height="40"/> </a> <a href="https://developer.android.com" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/9/95/Android_Studio_Icon_3.6.svg/1900px-Android_Studio_Icon_3.6.svg.png" alt="android" width="40" height="40"/> </a> <a href="https://www.blender.org/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/0/0c/Blender_logo_no_text.svg/2503px-Blender_logo_no_text.svg.png" alt="blender" width="40" height="40"/> </a> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/cs/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/62/CSS3_logo.svg/800px-CSS3_logo.svg.png" alt="css3" width="40" height="40"/> </a> <a href="https://dotnet.microsoft.com/" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7d/Microsoft_.NET_logo.svg/2048px-Microsoft_.NET_logo.svg.png" alt="dotnet" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://flutter.dev" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/flutterio/flutterio-icon.svg" alt="flutter" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a>
-<br>
-<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://www.w3.org/html/logo/downloads/HTML5_Badge_512.png" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/1200px-Adobe_Illustrator_CC_icon.svg.png" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a> <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> <a href="https://jquery.com" target="_blank" rel="noreferrer"> <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/jquery_plain_wordmark_logo_icon_146445.png" alt="jquery" width="40" height="40"/> </a> <a href="https://www.microsoft.com/en-us/sql-server" target="_blank" rel="noreferrer"> <img src="https://adaptivedge.com/wp-content/uploads/2018/10/SQL-Server-Logo.jpg" alt="mssql" width="40" height="40"/> </a> <a href="https://www.mysql.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/a/af/Adobe_Photoshop_CC_icon.svg/1200px-Adobe_Photoshop_CC_icon.svg.png" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.php.net" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" alt="php" width="40" height="40"/> </a> <a href="https://www.adobe.com/ph_en/products/premiere.html" target="_blank" rel="noreferrer"> <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Adobe_Premiere_Pro_CC_icon.svg/2101px-Adobe_Premiere_Pro_CC_icon.svg.png" alt="php" width="40" height="40"/> </a> 
-</p>
+<h3 align="left">Frameworks & Libraries: </h3>
+     <a href="#"> <img alt="Bootstrap" src="https://custom-icon-badges.demolab.com/badge/-Bootstrap-7710F1?logo=bootstrap&logoColor=white"> </a>
+     <a href="#"> <img alt="Bunifu UI" src="https://img.shields.io/badge/Bunifu%20UI-6833D1.svg"> </a>
+     <a href="#"> <img alt=".NET framework" src="https://custom-icon-badges.demolab.com/badge/-.NET%20Framework-39BAE0?logo=dotnet&logoColor=white"> </a>
+     <a href="#"> <img alt="Flutter" src="https://custom-icon-badges.demolab.com/badge/-Flutter-5ABFEB?logo=flutter&logoColor=white"> </a>
+     <a href="#"> <img alt="Fontawesome" src="https://custom-icon-badges.demolab.com/badge/-Fontawesome-2083DA?logo=fontawesome&logoColor=white"> </a>
+     <a href="#"> <img alt="Guna UI" src="https://custom-icon-badges.demolab.com/badge/-Guna%20UI-7C52F2.svg"> </a>
+     <a href="#"> <img alt="JUnit" src="https://custom-icon-badges.demolab.com/badge/-JUnit-23995D?logo=junit5&logoColor=white"> </a>
+     <a href="#"> <img alt="JQuery" src="https://custom-icon-badges.demolab.com/badge/-jQuery-0863A2?logo=jquery&logoColor=white"> </a>
+     <a href="#"> <img alt="Swiper.js" src="https://custom-icon-badges.demolab.com/badge/-Swiper.js-0079F2?logo=swiper&logoColor=white"> </a>
 
+<h3 align="left">Database and Cloud Hosting I use: </h3>
+     <a href="#"> <img alt="Firebase" src="https://custom-icon-badges.demolab.com/badge/-Firebase-yellow?logo=firebase&logoColor=white"> </a>
+     <a href="#"> <img alt="Microsoft SQL Server" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-A91D22.svg?logo=microsoftsqlserver&logoColor=white"> </a>
+     <a href="#"> <img alt="MySQL" src="https://custom-icon-badges.demolab.com/badge/-MySQL-42759C?logo=mysql&logoColor=white"> </a>
+
+<h3 align="left">Software I use: </h3>
+     <a href="#"> <img alt="Adobe Creative Cloud" src="https://custom-icon-badges.demolab.com/badge/-Adobe%20Creative%20Cloud-F140F0?logo=adobecreativecloud&logoColor=white"> </a>
+     <a href="#"> <img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"> </a>
+     <a href="#"> <img alt="Blender" src="https://custom-icon-badges.demolab.com/badge/-Blender-EB7700?logo=blender&logoColor=white"> </a>
+     <a href="#"> <img alt="Git" src="https://custom-icon-badges.demolab.com/badge/-Git-E84D31?logo=git&logoColor=white"> </a>
+     <a href="#"> <img alt="Github Desktop" src="https://custom-icon-badges.demolab.com/badge/-Github%20Desktop-8931A8?logo=GitHub&logoColor=white"> </a>
+     <a href="#"> <img alt="IntelliJ IDEA" src="https://custom-icon-badges.demolab.com/badge/-IntelliJ%20IDEA-0A7DF1?logo=intellijidea&logoColor=white"> </a>
+     <a href="#"> <img alt="iReport Designer" src="https://custom-icon-badges.demolab.com/badge/-iReport%20Designer-AA1C1E"> </a>
+     <a href="#"> <img alt="Apache Netbeans" src="https://custom-icon-badges.demolab.com/badge/-Apache%20NetBeans-2D8BE1?logo=apachenetbeanside&logoColor=white"> </a>
+     <a href="#"> <img alt="Visual Studio" src="https://custom-icon-badges.demolab.com/badge/-Visual%20Studio-blueviolet?logo=visualstudio&logoColor=white"> </a>
+     <a href="#"> <img alt="Visual Studio Code" src="https://custom-icon-badges.demolab.com/badge/-Visual%20Studio%20Code-39ADEB?logo=visualstudiocode&logoColor=white"> </a>
+     <a href="#"> <img alt="XAMPP" src="https://custom-icon-badges.demolab.com/badge/-XAMPP-FB7B1F?logo=xampp&logoColor=white"> </a>
+
+<details> 
+  <summary><h2>📈 My Github Stats and Activity</h2></summary>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=leinahi&theme=jolly&show_icons=true&locale=en&layout=compact" alt="leinahi" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=leinahi&theme=jolly&show_icons=true&locale=en" alt="leinahi" /></p>
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leinahi&theme=jolly" alt="leinahi" /></p>
+<p><h3>Streak Stats</h3><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leinahi&theme=jolly" alt="leinahi" /></p>
+  </details>
 

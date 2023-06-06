@@ -30,12 +30,12 @@
      <a href="#"> <img alt="JQuery" src="https://custom-icon-badges.demolab.com/badge/-jQuery-0863A2?logo=jquery&logoColor=white"> </a>
      <a href="#"> <img alt="Swiper.js" src="https://custom-icon-badges.demolab.com/badge/-Swiper.js-0079F2?logo=swiper&logoColor=white"> </a>
 
-<h3 align="left">Database and Cloud Hosting I use: </h3>
+<h3 align="left">Database and Cloud Hosting: </h3>
      <a href="#"> <img alt="Firebase" src="https://custom-icon-badges.demolab.com/badge/-Firebase-yellow?logo=firebase&logoColor=white"> </a>
      <a href="#"> <img alt="Microsoft SQL Server" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-A91D22.svg?logo=microsoftsqlserver&logoColor=white"> </a>
      <a href="#"> <img alt="MySQL" src="https://custom-icon-badges.demolab.com/badge/-MySQL-42759C?logo=mysql&logoColor=white"> </a>
 
-<h3 align="left">Software I use: </h3>
+<h3 align="left">Software & Tools: </h3>
      <a href="#"> <img alt="Adobe Creative Cloud" src="https://custom-icon-badges.demolab.com/badge/-Adobe%20Creative%20Cloud-F140F0?logo=adobecreativecloud&logoColor=white"> </a>
      <a href="#"> <img alt="Android Studio" src="https://img.shields.io/badge/Android%20Studio-008678.svg?logo=android-studio&logoColor=white"> </a>
      <a href="#"> <img alt="Blender" src="https://custom-icon-badges.demolab.com/badge/-Blender-EB7700?logo=blender&logoColor=white"> </a>
@@ -49,7 +49,7 @@
      <a href="#"> <img alt="XAMPP" src="https://custom-icon-badges.demolab.com/badge/-XAMPP-FB7B1F?logo=xampp&logoColor=white"> </a>
 
 <details> 
-  <summary><h2>📈 My Github Stats and Activity</h2></summary>
+  <summary><h2>My Github Stats and Activity</h2></summary>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=leinahi&theme=jolly&show_icons=true&locale=en&layout=compact" alt="leinahi" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=leinahi&theme=jolly&show_icons=true&locale=en" alt="leinahi" /></p>
 <p><h3>Streak Stats</h3><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leinahi&theme=jolly" alt="leinahi" /></p>

@@ -6,8 +6,8 @@
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://stackoverflow.com/users/11469848/leinah" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="leinah" height="30" width="40" /></a>
-<a href="https://www.behance.net/leinaharts" target="_blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/behance.svg" alt="leinaharts" height="30" width="40" /></a>
+<a href="https://stackoverflow.com/users/11469848/leinah"> <img alt="StackOverflow" src="https://custom-icon-badges.demolab.com/badge/-StackOverflow-E87922.svg?logo=stackoverflow&logoColor=white"> </a>
+<a href="https://www.behance.net/leinaharts"> <img alt="Behance" src="https://custom-icon-badges.demolab.com/badge/-Behance-0053F2.svg?logo=behance&logoColor=white"> </a>
 </p>
 <h3 align="left">Programming Languages & Markup: </h3>
      <a href="#"> <img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"> </a>

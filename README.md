@@ -9,7 +9,7 @@
 <a href="https://stackoverflow.com/users/11469848/leinah"> <img alt="StackOverflow" src="https://custom-icon-badges.demolab.com/badge/-StackOverflow-E87922.svg?logo=stackoverflow&logoColor=white"> </a>
 <a href="https://www.behance.net/leinaharts"> <img alt="Behance" src="https://custom-icon-badges.demolab.com/badge/-Behance-0053F2.svg?logo=behance&logoColor=white"> </a>
 </p>
-<h3 align="left">Programming Languages & Markup: </h3>
+<h3 align="left">Programming & Markup Languages: </h3>
      <a href="#"> <img alt="C#" src="https://custom-icon-badges.demolab.com/badge/C%23-68217A.svg?logo=cs2&logoColor=white"> </a>
      <a href="#"> <img alt="CSS" src="https://img.shields.io/badge/CSS-1572B6.svg?logo=css3&logoColor=white"> </a>
      <a href="#"> <img alt="Dart" src="https://custom-icon-badges.demolab.com/badge/-Dart-025493?logo=dart&logoColor=white"> </a>

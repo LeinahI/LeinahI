@@ -32,6 +32,7 @@
 
 <h3 align="left">Database and Cloud Hosting: </h3>
      <a href="#"> <img alt="Firebase" src="https://custom-icon-badges.demolab.com/badge/-Firebase-yellow?logo=firebase&logoColor=white"> </a>
+     <a href="#"> <img alt="MongoDB" src="https://custom-icon-badges.demolab.com/badge/-MongoDB-green?logo=mongodb&logoColor=white"> </a>
      <a href="#"> <img alt="Microsoft SQL Server" src="https://img.shields.io/badge/Microsoft%20SQL%20Server-A91D22.svg?logo=microsoftsqlserver&logoColor=white"> </a>
      <a href="#"> <img alt="MySQL" src="https://custom-icon-badges.demolab.com/badge/-MySQL-42759C?logo=mysql&logoColor=white"> </a>
 

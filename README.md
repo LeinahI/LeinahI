@@ -22,7 +22,6 @@
      <a href="#"> <img alt="Bootstrap" src="https://custom-icon-badges.demolab.com/badge/-Bootstrap-7710F1?logo=bootstrap&logoColor=white"> </a>
      <a href="#"> <img alt="Bunifu UI" src="https://img.shields.io/badge/Bunifu%20UI-6833D1.svg"> </a>
      <a href="#"> <img alt=".NET framework" src="https://custom-icon-badges.demolab.com/badge/-.NET%20Framework-39BAE0?logo=dotnet&logoColor=white"> </a>
-     <a href="#"> <img alt="Flutter" src="https://custom-icon-badges.demolab.com/badge/-Flutter-5ABFEB?logo=flutter&logoColor=white"> </a>
      <a href="#"> <img alt="Fontawesome" src="https://custom-icon-badges.demolab.com/badge/-Fontawesome-2083DA?logo=fontawesome&logoColor=white"> </a>
      <a href="#"> <img alt="Guna UI" src="https://custom-icon-badges.demolab.com/badge/-Guna%20UI-7C52F2.svg"> </a>
      <a href="#"> <img alt="JUnit" src="https://custom-icon-badges.demolab.com/badge/-JUnit-23995D?logo=junit5&logoColor=white"> </a>

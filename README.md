@@ -47,6 +47,6 @@
 <h2>Stats and Activities</h2>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=leinahi&theme=jolly&show_icons=true&locale=en&layout=compact" alt="leinahi" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=leinahi&theme=jolly&show_icons=true&locale=en" alt="leinahi" /></p>
-<p><h3>Streak Stats</h3><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leinahi&theme=jolly" alt="leinahi" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leinahi&theme=jolly" alt="leinahi" /></p>
 
 

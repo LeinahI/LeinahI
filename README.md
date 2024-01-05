@@ -43,10 +43,10 @@
      <a href="#"> <img alt="Visual Studio Code" src="https://custom-icon-badges.demolab.com/badge/-Visual%20Studio%20Code-39ADEB?logo=visualstudiocode&logoColor=white"> </a>
      <a href="#"> <img alt="XAMPP" src="https://custom-icon-badges.demolab.com/badge/-XAMPP-FB7B1F?logo=xampp&logoColor=white"> </a>
 
-<details> 
-  <summary><h2>My Github Stats and Activity</h2></summary>
+
+  <summary><h2>Stats and Activities</h2></summary>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=leinahi&theme=jolly&show_icons=true&locale=en&layout=compact" alt="leinahi" /></p>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=leinahi&theme=jolly&show_icons=true&locale=en" alt="leinahi" /></p>
 <p><h3>Streak Stats</h3><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=leinahi&theme=jolly" alt="leinahi" /></p>
-  </details>
+
 

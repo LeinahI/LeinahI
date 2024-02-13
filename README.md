@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Leinah</h1>
 
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Azeret+Mono&pause=1000&color=FF64DA&center=true&width=435&lines=Full+Stack+web+and+mobile+developer" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Azeret+Mono&pause=1000&color=FF64DA&center=true&width=435&lines=Fullstack+Web+%26+Mobile+Developer" alt="Typing SVG" /></a>
 </p>
 
 <h3 align="left">Connect with me:</h3>

@@ -25,7 +25,7 @@
      <a href="#"> <img src="https://skillicons.dev/icons?i=aws" height="60"> </a>
      <a href="#"> <img src="https://go-skill-icons.vercel.app/api/icons?i=ec2,lambda,s3,rds,dynamodb,cloudfront,docker,nginx" height="60"> </a>
 
-<h3 align="left">Cloud & Infrastructure: </h3>
+<h3 align="left">Technologies: </h3>
      <a href="#"> <img src="https://go-skill-icons.vercel.app/api/icons?i=git,gitbash,claude,postman,laravel,react,nextjs,nestjs,zustand,prisma" height="60"> </a>
      <br>
      <a href="#"> <img src="https://go-skill-icons.vercel.app/api/icons?i=vue,pinia,tailwind,d3,webflow,wordpress,elementor,framer,gsap" height="60"> </a>

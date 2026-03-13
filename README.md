@@ -16,8 +16,7 @@
 
 <h3 align="left">Database & ORM: </h3>
      <a href="#"> <img src="https://skillicons.dev/icons?i=mysql" height="60"> </a>
-     <a href="#"> <img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" height="45"> </a>
-     <a href="#"> <img src="https://go-skill-icons.vercel.app/api/icons?i=sqlserver" height="60"> </a>
+     <a href="#"> <img src="https://go-skill-icons.vercel.app/api/icons?i=sqlserver,postgresql" height="60"> </a>
      <a href="#"> <img src="https://skillicons.dev/icons?i=mongodb" height="60"> </a>
      <a href="#"> <img src="https://skillicons.dev/icons?i=firebase" height="60"> </a>
      <a href="#"> <img src="https://go-skill-icons.vercel.app/api/icons?i=prisma" height="60"> </a>

@@ -14,19 +14,20 @@
      <a href="#"> <img src="https://skillicons.dev/icons?i=html" height="60" alt="html logo"  /> </a>
      <a href="#"> <img src="https://skillicons.dev/icons?i=css" height="60" alt="css logo"  /> </a>
 
-<h3 align="left">Databaes: </h3>
+<h3 align="left">Database & ORM: </h3>
      <a href="#"> <img src="https://skillicons.dev/icons?i=mysql" height="60"> </a>
      <a href="#"> <img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" height="45"> </a>
      <a href="#"> <img src="https://go-skill-icons.vercel.app/api/icons?i=sqlserver" height="60"> </a>
      <a href="#"> <img src="https://skillicons.dev/icons?i=mongodb" height="60"> </a>
      <a href="#"> <img src="https://skillicons.dev/icons?i=firebase" height="60"> </a>
+     <a href="#"> <img src="https://go-skill-icons.vercel.app/api/icons?i=prisma" height="60"> </a>
      
 <h3 align="left">Cloud & Infrastructure: </h3>
      <a href="#"> <img src="https://skillicons.dev/icons?i=aws" height="60"> </a>
      <a href="#"> <img src="https://go-skill-icons.vercel.app/api/icons?i=ec2,lambda,s3,rds,dynamodb,cloudfront,docker,nginx" height="60"> </a>
 
 <h3 align="left">Technologies: </h3>
-     <a href="#"> <img src="https://go-skill-icons.vercel.app/api/icons?i=git,gitbash,claude,postman,laravel,react,nextjs,nestjs,zustand,prisma" height="60"> </a>
+     <a href="#"> <img src="https://go-skill-icons.vercel.app/api/icons?i=git,gitbash,claude,postman,laravel,react,nextjs,nestjs,zustand" height="60"> </a>
      <br>
      <a href="#"> <img src="https://go-skill-icons.vercel.app/api/icons?i=vue,pinia,tailwind,d3,webflow,wordpress,elementor,framer,gsap" height="60"> </a>
 

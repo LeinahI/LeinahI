@@ -1,8 +1,6 @@
-<h1 align="center">Hi 👋, I'm Nathan</h1>
-
-<p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Azeret+Mono&pause=1000&color=FF64DA&center=true&width=435&lines=Fullstack+Web+%26+Mobile+Developer" alt="Typing SVG" /></a>
-</p>
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Greetings&fontAlignY=35&animation=twinkling&fontColor=ffff"/>
+</div>
 
 <h3 align="left">Languages: </h3>
      <a href="#"> <img src="https://skillicons.dev/icons?i=js" height="60" alt="js logo"  /> </a>

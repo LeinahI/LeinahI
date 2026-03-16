@@ -1,7 +1,3 @@
-<div align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=200&color=gradient&text=Greetings&fontAlignY=35&animation=twinkling&fontColor=ffff"/>
-</div>
-
 <h3 align="left">Languages: </h3>
      <a href="#"> <img src="https://skillicons.dev/icons?i=js" height="60" alt="js logo"  /> </a>
      <a href="#"> <img src="https://skillicons.dev/icons?i=ts" height="60" alt="ts logo"  /> </a>
